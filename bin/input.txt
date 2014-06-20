@@ -1,0 +1,11 @@
+[start state(arah lampu hijau duluan) (1 = Utara Selatan, 2 = Timur Barat)]
+1
+
+[end state(total running time dalam detik)]
+720
+
+[percepatan 1 = 1x, 2 = 2x, 4 = 4x, 8 = 8x, 16 = 16x, 32 = 32x | (1x = 1 detik nyata, 2x = 1 detik = 0.5 detik nyata)]
+2
+
+[crosser(1 = utara, 2 = selatan)]
+1
